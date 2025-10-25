@@ -9,7 +9,7 @@ module.exports.config = {
   cooldowns: 2,
 };
 
-const Rahi = [
+const botReplies = [
   "বেশি bot Bot করলে leave নিবো কিন্তু😒😒",
  "শুনবো না😼 তুমি আমার বস সাহু কে প্রেম করাই দাও নাই🥺পচা তুমি🥺",
  "আমি আবাল দের সাথে কথা বলি না,ok😒",

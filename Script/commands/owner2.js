@@ -5,7 +5,7 @@ module.exports.config = {
  name: "owner2",
  version: "1.0.1",
  hasPermssion: 0,
- credits: "Shahadat SAHU",
+ credits: "Rahi SAHU",
  description: "Display bot owner's information",
  commandCategory: "Info",
  usages: "",
@@ -28,7 +28,7 @@ module.exports.run = async function ({ api, event }) {
  body:
 `🌟 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 🌟
 
-👑 𝗡𝗮𝗺𝗲: Rahi Chowdhury😘
+👑 𝗡𝗮𝗺𝗲: Rahi 😘
 😻 𝗔𝗱𝗱𝗿𝗲𝘀𝘀: মেয়েদের মনে🙈
 💼 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻: মেয়েদের মন জয় করা😍
 

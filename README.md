@@ -136,7 +136,7 @@ ___
 
 ## 👨‍💻 **ABOUT THE DEVELOPER**  
   
-**Name:** **`SHAHADAT ISLAM`**  
+**Name:** **`SHA ISLAM`**  
 **Nice Name:** **`SA HU`**  
 **Profession:** **`STUDENT & CHATBOT DEVELOPER`**  
 **Location:** **`KHAGRACHARI, BANGLADESH`**  
